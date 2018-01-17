@@ -1,10 +1,7 @@
 import React from "react";
 
 let mainBackground = {
-    backgroundImage:'url(http://getwallpapers.com/wallpaper/full/2/8/f/86085.jpg)',
-    backgroundPositionX:-200,
-    backgroundPositionY:-100,
-    backgroundSize: 1800
+    backgroundColor:"#000000"
 };
 
 let boardStyle = {
