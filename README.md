@@ -1,4 +1,4 @@
-Github - Production Link: https://hanselgunawan.github.io/marvel-clicky-game/
+Github - Production Link: https://hanselgunawan.github.io/marvel-clicky-game
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
